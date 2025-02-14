@@ -4,7 +4,7 @@ nucleotide_frequency.py - Calculate nucleotide frequencies in a DNA sequence.
 
 Author: <heladia@ccg.unam.mx>
 Date: 2023-10-10
-Version: 1.0
+Version: 1.0 
 
 Usage:
     python nucleotide_frequency.py --file <archivo_dna.txt>
