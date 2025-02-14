@@ -1,8 +1,8 @@
-# [NOMBRE DEL PROYECTO]
+# [NOMBRE DEL PROYECTO/TAREA]
 
 Fecha: [dd/mm/yyyy]
 
-Participantes: 
+Participante(s): 
 
 - [nombre]  <email: > 
 
